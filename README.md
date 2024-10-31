@@ -1,6 +1,6 @@
 # dsal
 
-Java fundamental ADT and algorithms library
+fundamental ADT and algorithms library
 
 ## features
 
